@@ -287,7 +287,7 @@
     - ts
     - exe
 - name: BiliZepam
-  link: Re-BiliTerminal/BiliZepam
+  link: Re-BiliTerminal/BiliZepam-Compose
   from: github
   description: 轻量的安卓第三方B站客户端
   icon:
